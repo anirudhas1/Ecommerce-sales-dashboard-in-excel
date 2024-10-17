@@ -1,3 +1,4 @@
+<img width="662" alt="ecommerce saled dashboard" src="https://github.com/user-attachments/assets/708c6c4e-7934-48b2-a491-96f9deb867f6">
 # Ecommerce-sales-dashboard-in-excel
 "This project is an interactive e-commerce sales dashboard created using Excel. It allows users to visualize key sales metrics, including revenue, product performance, sales trends, and regional distribution. The dashboard is designed for quick insights and decision-making."
 "Key features of the dashboard include:
